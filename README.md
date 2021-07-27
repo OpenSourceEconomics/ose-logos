@@ -7,7 +7,7 @@ The available logos are, among others:
 - [OSE Bonn logo](https://github.com/OpenSourceEconomics/ose-logos/blob/main/OSE_Bonn_logo_RGB.pdf)
 - [OSE Bonn without any type](https://github.com/OpenSourceEconomics/ose-logos/blob/main/OSE_logo_no_type_RGB.pdf)
 
-Grayscale and SVG versions are also available. For web pages, please use the [SVG version](https://github.com/OpenSourceEconomics/ose-logos/blob/main/logos/OSE_Bonn_logo_RGB.svg).
+Grayscale and SVG versions are also available. For web pages, please use the [SVG version](https://github.com/OpenSourceEconomics/ose-logos/blob/main/OSE_Bonn_logo_RGB.svg).
 
 <!--
 **Measurements of the logo**
